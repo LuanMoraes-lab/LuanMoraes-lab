@@ -1,0 +1,7 @@
+Pontos de configuração da plataforma
+
+>_ Hit Rate %
+>_ Spin %
+>_ Volume de base importada mostrar essa informação na tela do kibana, para calculos de efetividade
+
+>_ Agente 12685
